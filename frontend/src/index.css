@@ -116,11 +116,13 @@ h3 {
 
 .form-group {
   margin-bottom: 10px;
+  
 }
 
 .form-group input,
 .form-group textarea,
 .form-group select {
+  
   width: 100%;
   padding: 10px;
   border: 1px solid #e6e6e6;
@@ -136,6 +138,7 @@ h3 {
 }
 
 .btn {
+  
   padding: 10px 20px;
   border: 1px solid #000;
   border-radius: 5px;
